@@ -1,4 +1,4 @@
-class PrefixChange < Formula
+class Prefixchange < Formula
   desc "Rename prefix of iOS classes"
   homepage "https://github.com/ivanzoid/prefixChange"
   url "https://github.com/ivanzoid/prefixChange/archive/1.0.0.zip"
