@@ -1,4 +1,4 @@
-class ViperModuleRename < Formula
+class Vipermodulerename < Formula
   desc "Rename VIPER moduels"
   homepage "https://github.com/ivanzoid/viperModuleRename"
   url "https://github.com/ivanzoid/viperModuleRename/archive/1.0.zip"
