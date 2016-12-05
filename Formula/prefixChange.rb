@@ -2,7 +2,7 @@ class Prefixchange < Formula
   desc "Rename prefix of iOS classes"
   homepage "https://github.com/ivanzoid/prefixChange"
   url "https://github.com/ivanzoid/prefixChange/archive/1.1.zip"
-  sha256 "5e2c7da05c5ace4d1c6a2f7579ccb18bcea2d3639c742d58e637d9f7b688c709"
+  sha256 "39bca0dc00de06e358301e1f06c4d219cd36bdb14cc87a01315e52396c91dd90"
   version "1.1"
 
   depends_on "rename"
